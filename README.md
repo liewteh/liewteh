@@ -4,8 +4,9 @@
 </a>
 </p>
 <p align="center">
-<a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@liewteh/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
+<a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@cc1ebb23-5ce3-4b2e-af0d-345830e15d02/dca14ba6-6527-4445-9c78-46c3c213b625.png" /></a>
 </p>
+
 <!--
 **liewteh/liewteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
